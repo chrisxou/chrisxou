@@ -20,7 +20,7 @@ As a motivated self-starter, I have a passion for creating engaging and function
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" />
 
 <br />
 <!-- Extra new line -->
@@ -38,4 +38,5 @@ As a motivated self-starter, I have a passion for creating engaging and function
 ### Links
 
 [![My LinkedIn Profile](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/christos-chouchlias/){:target="_blank"}
-[![My Portfolio](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)](https://www.chrischouchlias.eu/){
+[![My Portfolio](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)](https://www.chrischouchlias.eu/){:target="_blank"}
+[![Microsoft Certified: Azure](https://img.icons8.com/color/48/azure-1.png)](https://www.credly.com/badges/4ef0d41d-11dc-4b2e-9cb8-f84d1ff9e97c/linked_in?t=rpgvs1){:target="_blank"}
