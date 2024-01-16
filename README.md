@@ -20,7 +20,7 @@ As a motivated self-starter, I have a passion for creating engaging and function
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/50/000000/postman-api.png" />
 
 <br />
 <!-- Extra new line -->
@@ -34,8 +34,5 @@ As a motivated self-starter, I have a passion for creating engaging and function
 ### 📊 Stats
 
 ![Christos's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisxou&show_icons=true&theme=gruvbox)
-![Christos's GitHub stats]([https://github-readme-stats.vercel.app/api?username=chrisxou&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxou&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxou&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html)
 
-<a href="https://github.com/chrisxou">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxou&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html" alt="Chris's GitHub Stats" />
-</a>
