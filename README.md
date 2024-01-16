@@ -26,7 +26,6 @@ As a motivated self-starter, I have a passion for creating engaging and function
 <!-- Extra new line -->
 <br />
 
-
 #
 
 ### 📊 Stats
@@ -34,11 +33,9 @@ As a motivated self-starter, I have a passion for creating engaging and function
 ![Christos's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisxou&show_icons=true&theme=gruvbox)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxou&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html)
 
+#
 
-# Links
+### Links
 
-<!-- Image with a link -->
-[![My LinkedIn Profile](link_to_linkedin_image)](https://www.linkedin.com/in/christos-chouchlias/){:target="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"}
-[![My Portfolio](link_to_portfolio_image)](https://www.chrischouchlias.eu/){:target="https://icons8.com/icon/23883/resume"}
-[![Microsoft Certified: Azure](https://images.credly.com/size/680x680/images/4ef0d41d-11dc-4b2e-9cb8-f84d1ff9e97c/linked_in.png)](https://www.credly.com/badges/4ef0d41d-11dc-4b2e-9cb8-f84d1ff9e97c/linked_in?t=rpgvs1)
-
+[![My LinkedIn Profile](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/christos-chouchlias/){:target="_blank"}
+[![My Portfolio](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)](https://www.chrischouchlias.eu/){
