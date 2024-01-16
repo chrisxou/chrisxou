@@ -1,4 +1,4 @@
-#  Christos Chouchlias
+# Christos Chouchlias
 
 **`Full Stack Engineer`**
 
@@ -22,12 +22,14 @@ As a motivated self-starter, I have a passion for creating engaging and function
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 
-
 #
 
 ### 📊 Stats
 
 ![Christos's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisxou&show_icons=true&theme=gruvbox)
 
-#
+# Links
 
+[LinkedIn](https://www.linkedin.com/in/christos-chouchlias/) | [Portfolio](https://www.chrischouchlias.eu)
+
+![Microsoft Certified: Azure](https://images.credly.com/size/680x680/images/4ef0d41d-11dc-4b2e-9cb8-f84d1ff9e97c/linked_in.png)
