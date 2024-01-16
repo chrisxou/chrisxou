@@ -15,7 +15,7 @@ As a motivated self-starter, I have a passion for creating engaging and function
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Express.js" width="30px" style="padding-right:10px; background-color:white; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -32,4 +32,4 @@ As a motivated self-starter, I have a passion for creating engaging and function
 
 [LinkedIn](https://www.linkedin.com/in/christos-chouchlias/) | [Portfolio](https://www.chrischouchlias.eu)
 
-![Microsoft Certified: Azure](https://images.credly.com/size/680x680/images/4ef0d41d-11dc-4b2e-9cb8-f84d1ff9e97c/linked_in.png)
+[![Microsoft Certified: Azure](https://images.credly.com/size/680x680/images/4ef0d41d-11dc-4b2e-9cb8-f84d1ff9e97c/linked_in.png)](https://www.credly.com/badges/4ef0d41d-11dc-4b2e-9cb8-f84d1ff9e97c/linked_in?t=rpgvs1)
