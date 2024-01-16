@@ -36,6 +36,6 @@ As a motivated self-starter, I have a passion for creating engaging and function
 
 ### Links
 
-[![My LinkedIn Profile](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/christos-chouchlias/){:target="_blank"} My LinkedIn Profile
-[![My Portfolio](https://img.icons8.com/color/48/resume.png)](https://www.chrischouchlias.eu/){:target="_blank"} My Portfolio
-[![Microsoft Certified: Azure](https://img.icons8.com/color/48/azure-1.png)](https://www.credly.com/badges/4ef0d41d-11dc-4b2e-9cb8-f84d1ff9e97c/linked_in?t=rpgvs1){:target="_blank"} Microsoft Certified: Azure
+[![My LinkedIn Profile](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/christos-chouchlias/) My LinkedIn Profile
+[![My Portfolio](https://img.icons8.com/color/48/resume.png)](https://www.chrischouchlias.eu/)My Portfolio
+[![Microsoft Certified: Azure](https://img.icons8.com/color/48/azure-1.png)](https://www.credly.com/badges/4ef0d41d-11dc-4b2e-9cb8-f84d1ff9e97c/linked_in?t=rpgvs1) Microsoft Certified: Azure
