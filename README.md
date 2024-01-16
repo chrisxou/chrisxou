@@ -27,7 +27,7 @@ As a motivated self-starter, I have a passion for creating engaging and function
 
 ### 📊 Stats
 
-![Christos's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox)
+![Christos's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisxou&show_icons=true&theme=gruvbox)
 
 #
 
