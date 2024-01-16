@@ -7,7 +7,7 @@ I graduated from the University of Thessaly with a degree in Computer Science an
 As a motivated self-starter, I have a passion for creating engaging and functional software that meets user needs. I'm continuously learning and seeking opportunities to expand my skillset, contributing to exciting projects that make a positive impact.
 
 ### 🧰 Languages and Tools
-
+<br />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
@@ -24,7 +24,7 @@ As a motivated self-starter, I have a passion for creating engaging and function
 
 <br />
 <!-- Extra new line -->
-
+<br />
 <!-- Image with a link -->
 [![My LinkedIn Profile](link_to_linkedin_image)](https://www.linkedin.com/in/christos-chouchlias/){:target="_blank"}
 [![My Portfolio](link_to_portfolio_image)](https://www.chrischouchlias.eu/){:target="_blank"}
@@ -34,6 +34,7 @@ As a motivated self-starter, I have a passion for creating engaging and function
 ### 📊 Stats
 
 ![Christos's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisxou&show_icons=true&theme=gruvbox)
+![Christos's GitHub stats]([https://github-readme-stats.vercel.app/api?username=chrisxou&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxou&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html))
 
 <a href="https://github.com/chrisxou">
   <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxou&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html" alt="Chris's GitHub Stats" />
